@@ -1,0 +1,9 @@
+PASS MNIST: all 70,000 images and labels match their source rows after preprocessing.
+PASS ORL: all 400 images and labels match their source rows after preprocessing.
+PASS CIFAR: all 60,000 images and labels match their source rows after preprocessing.
+PASS malformed data: rejected wrong dimensions, unequal ORL channels, NaNs, invalid labels, wrong class counts and wrong split sizes.
+PASS missing-file check: reports an actionable setup error.
+PASS Setting integration: forwards unchanged train/test arrays and calls load, run, save, evaluate in order.
+All Part A verification checks passed. CNN training was outside this check.
+PASS setup: all three extracted files match archive CRCs.
+PASS CLI: checker imports work outside the repository working directory.
