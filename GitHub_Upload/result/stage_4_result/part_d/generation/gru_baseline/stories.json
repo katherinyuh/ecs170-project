@@ -1,0 +1,267 @@
+[
+  {
+    "prompt": "what did the",
+    "temperature": null,
+    "text": "what did the german shepherd say to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 6,
+      "longest_chunk_text": "what did the german shepherd say",
+      "longest_chunk_joke": 1179,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "say to the other",
+      "longest_continuation_chunk_joke": 7,
+      "long_chunk_copied": false,
+      "closest_joke": 1179,
+      "closest_overlap": 0.5,
+      "closest_continuation_joke": 3,
+      "closest_continuation_overlap": 0.4
+    }
+  },
+  {
+    "prompt": "what did the",
+    "temperature": 0.8,
+    "text": "what did the corn say to the other side? because it was a typo.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 6,
+      "longest_chunk_text": "the other side ? because it",
+      "longest_chunk_joke": 1014,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "the other side ? because it",
+      "longest_continuation_chunk_joke": 1014,
+      "long_chunk_copied": true,
+      "closest_joke": 1014,
+      "closest_overlap": 0.2857,
+      "closest_continuation_joke": 1014,
+      "closest_continuation_overlap": 0.3636
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": null,
+    "text": "why did the chicken cross the playground? to get to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        3,
+        24,
+        871
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        3,
+        24,
+        871
+      ],
+      "longest_chunk_tokens": 14,
+      "longest_chunk_text": "why did the chicken cross the playground ? to get to the other slide",
+      "longest_chunk_joke": 3,
+      "longest_continuation_chunk_tokens": 11,
+      "longest_continuation_chunk_text": "chicken cross the playground ? to get to the other slide",
+      "longest_continuation_chunk_joke": 3,
+      "long_chunk_copied": true,
+      "closest_joke": 3,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 3,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": 0.8,
+    "text": "why did the packaged break off a cliff.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "why did the packaged",
+      "longest_chunk_joke": 993,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "off a cliff .",
+      "longest_continuation_chunk_joke": 120,
+      "long_chunk_copied": false,
+      "closest_joke": 120,
+      "closest_overlap": 0.2857,
+      "closest_continuation_joke": 120,
+      "closest_continuation_overlap": 0.5
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": null,
+    "text": "two artists had a lot of problems",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        261,
+        843
+      ],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "had a lot of problems",
+      "longest_chunk_joke": 261,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "a lot of problems",
+      "longest_continuation_chunk_joke": 261,
+      "long_chunk_copied": false,
+      "closest_joke": 261,
+      "closest_overlap": 0.6,
+      "closest_continuation_joke": 261,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": 0.8,
+    "text": "two artists had an art contest...",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        2,
+        339
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        2,
+        339
+      ],
+      "longest_chunk_tokens": 9,
+      "longest_chunk_text": "two artists had an art contest . . .",
+      "longest_chunk_joke": 2,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "an art contest . . .",
+      "longest_continuation_chunk_joke": 2,
+      "long_chunk_copied": true,
+      "closest_joke": 2,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 2,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": null,
+    "text": "my invisible penguin!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 2,
+      "longest_chunk_text": "penguin !",
+      "longest_chunk_joke": 162,
+      "longest_continuation_chunk_tokens": 1,
+      "longest_continuation_chunk_text": "!",
+      "longest_continuation_chunk_joke": 1,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": 0.8,
+    "text": "my invisible penguin!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 2,
+      "longest_chunk_text": "penguin !",
+      "longest_chunk_joke": 162,
+      "longest_continuation_chunk_tokens": 1,
+      "longest_continuation_chunk_text": "!",
+      "longest_continuation_chunk_joke": 1,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": null,
+    "text": "<unk> <unk> <unk>",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 0,
+      "longest_chunk_text": "",
+      "longest_chunk_joke": -1,
+      "longest_continuation_chunk_tokens": 0,
+      "longest_continuation_chunk_text": "",
+      "longest_continuation_chunk_joke": -1,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": 0.8,
+    "text": "<unk> <unk> <unk> now! http: www. youtube. com watch? v fb63ztkngvo feature youtu to be addicted... but it entailed!",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 12,
+      "longest_chunk_text": ": www . youtube . com watch ? v fb63ztkngvo feature youtu",
+      "longest_chunk_joke": 1469,
+      "longest_continuation_chunk_tokens": 12,
+      "longest_continuation_chunk_text": ": www . youtube . com watch ? v fb63ztkngvo feature youtu",
+      "longest_continuation_chunk_joke": 1469,
+      "long_chunk_copied": true,
+      "closest_joke": 1469,
+      "closest_overlap": 0.3846,
+      "closest_continuation_joke": 1469,
+      "closest_continuation_overlap": 0.4348
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "generation_full_runs": 18,
+  "epochs_per_generation_run": 15,
+  "training_examples": 30303,
+  "generation_smoke_runs_passed": 18,
+  "classification_smoke_runs_passed": 18,
+  "baseline_stories_matching_supplied_outputs": "30/30",
+  "baseline_evaluation_accuracies_match": true,
+  "one_factor_configuration_checks": "passed for generation and classification",
+  "notebook_syntax_and_embedded_source_checks": "passed",
+  "completed_run_resume_check": "passed",
+  "new_classification_full_sweep_executed": true,
+  "colab_gpu_notebook_executed": false,
+  "team_source_commit": "ef719fea7ce843f6079128d56ef141a43cfec5ec",
+  "scope": "18 generation runs and a focused three-run classification GRU sweep; supplied Part B results are separate references.",
+  "classification_full_runs": 3,
+  "classification_cells": [
+    "gru"
+  ],
+  "classification_epochs": 3,
+  "classification_training_reviews": 22500,
+  "classification_validation_reviews": 2500,
+  "classification_test_reviews": 25000,
+  "classification_metrics_recomputed_from_predictions": true,
+  "classification_single_factor_checks": "passed"
+}

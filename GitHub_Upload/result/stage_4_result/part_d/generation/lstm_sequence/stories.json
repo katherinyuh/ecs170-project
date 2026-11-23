@@ -1,0 +1,260 @@
+[
+  {
+    "prompt": "what did the",
+    "temperature": null,
+    "text": "what did the fish say when it hit the wall? dam.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        84
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        84
+      ],
+      "longest_chunk_tokens": 13,
+      "longest_chunk_text": "what did the fish say when it hit the wall ? dam .",
+      "longest_chunk_joke": 84,
+      "longest_continuation_chunk_tokens": 10,
+      "longest_continuation_chunk_text": "fish say when it hit the wall ? dam .",
+      "longest_continuation_chunk_joke": 84,
+      "long_chunk_copied": true,
+      "closest_joke": 84,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 84,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "what did the",
+    "temperature": 0.8,
+    "text": "what did the fish say when she got a angle!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 6,
+      "longest_chunk_text": "what did the fish say when",
+      "longest_chunk_joke": 84,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "fish say when she",
+      "longest_continuation_chunk_joke": 250,
+      "long_chunk_copied": false,
+      "closest_joke": 84,
+      "closest_overlap": 0.4444,
+      "closest_continuation_joke": 250,
+      "closest_continuation_overlap": 0.3333
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": null,
+    "text": "why did the chicken cross the road? to get to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 13,
+      "longest_chunk_text": "why did the chicken cross the road ? to get to the other",
+      "longest_chunk_joke": 960,
+      "longest_continuation_chunk_tokens": 10,
+      "longest_continuation_chunk_text": "chicken cross the road ? to get to the other",
+      "longest_continuation_chunk_joke": 960,
+      "long_chunk_copied": true,
+      "closest_joke": 960,
+      "closest_overlap": 0.9167,
+      "closest_continuation_joke": 960,
+      "closest_continuation_overlap": 0.8889
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": 0.8,
+    "text": "why did the chicken cross the road? when he wanted to see a little boogie in the corner.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 8,
+      "longest_chunk_text": "why did the chicken cross the road ?",
+      "longest_chunk_joke": 957,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "chicken cross the road ?",
+      "longest_continuation_chunk_joke": 957,
+      "long_chunk_copied": false,
+      "closest_joke": 957,
+      "closest_overlap": 0.3333,
+      "closest_continuation_joke": 957,
+      "closest_continuation_overlap": 0.2
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": null,
+    "text": "two artists had a joke about pizza.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "had a joke about",
+      "longest_chunk_joke": 532,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "a joke about pizza",
+      "longest_continuation_chunk_joke": 1084,
+      "long_chunk_copied": false,
+      "closest_joke": 532,
+      "closest_overlap": 0.3333,
+      "closest_continuation_joke": 1084,
+      "closest_continuation_overlap": 0.6667
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": 0.8,
+    "text": "two artists had an art contest...",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        2,
+        339
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        2,
+        339
+      ],
+      "longest_chunk_tokens": 9,
+      "longest_chunk_text": "two artists had an art contest . . .",
+      "longest_chunk_joke": 2,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "an art contest . . .",
+      "longest_continuation_chunk_joke": 2,
+      "long_chunk_copied": true,
+      "closest_joke": 2,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 2,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": null,
+    "text": "my invisible penguin to put a lightbulb? because it was a little forced.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 6,
+      "longest_chunk_text": "it was a little forced .",
+      "longest_chunk_joke": 383,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "it was a little forced .",
+      "longest_continuation_chunk_joke": 383,
+      "long_chunk_copied": true,
+      "closest_joke": 383,
+      "closest_overlap": 0.3077,
+      "closest_continuation_joke": 383,
+      "closest_continuation_overlap": 0.4
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": 0.8,
+    "text": "my invisible penguin to the other? hey, what is silent doing say when golfing? he lost me a pretty.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 6,
+      "longest_chunk_text": "to the other ? hey ,",
+      "longest_chunk_joke": 1450,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "to the other ? hey ,",
+      "longest_continuation_chunk_joke": 1450,
+      "long_chunk_copied": true,
+      "closest_joke": 1450,
+      "closest_overlap": 0.1905,
+      "closest_continuation_joke": 1450,
+      "closest_continuation_overlap": 0.2222
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": null,
+    "text": "<unk> <unk> <unk> i heard the one about the best ceiling................................",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "max_len",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 18,
+      "longest_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_chunk_joke": 641,
+      "longest_continuation_chunk_tokens": 18,
+      "longest_continuation_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_continuation_chunk_joke": 641,
+      "long_chunk_copied": true,
+      "closest_joke": 1042,
+      "closest_overlap": 0.3333,
+      "closest_continuation_joke": 1042,
+      "closest_continuation_overlap": 0.4444
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": 0.8,
+    "text": "<unk> <unk> <unk> how do you make a mouse in electrical engineering? ohm!",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "how do you make a",
+      "longest_chunk_joke": 205,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "how do you make a",
+      "longest_continuation_chunk_joke": 205,
+      "long_chunk_copied": false,
+      "closest_joke": 205,
+      "closest_overlap": 0.2308,
+      "closest_continuation_joke": 205,
+      "closest_continuation_overlap": 0.3
+    }
+  }
+]

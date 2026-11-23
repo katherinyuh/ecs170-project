@@ -1,0 +1,252 @@
+[
+  {
+    "prompt": "what did the",
+    "temperature": null,
+    "text": "what did the mama cow? a stick.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "what did the mama cow",
+      "longest_chunk_joke": 1321,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "? a stick .",
+      "longest_continuation_chunk_joke": 707,
+      "long_chunk_copied": false,
+      "closest_joke": 1321,
+      "closest_overlap": 0.4286,
+      "closest_continuation_joke": 707,
+      "closest_continuation_overlap": 0.5
+    }
+  },
+  {
+    "prompt": "what did the",
+    "temperature": 0.8,
+    "text": "what did the mama name his ran!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "what did the mama",
+      "longest_chunk_joke": 316,
+      "longest_continuation_chunk_tokens": 2,
+      "longest_continuation_chunk_text": "name his",
+      "longest_continuation_chunk_joke": 59,
+      "long_chunk_copied": false,
+      "closest_joke": 316,
+      "closest_overlap": 0.3333,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": null,
+    "text": "why did the chicken cross the road? because it was a little boulder.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 8,
+      "longest_chunk_text": "why did the chicken cross the road ?",
+      "longest_chunk_joke": 957,
+      "longest_continuation_chunk_tokens": 7,
+      "longest_continuation_chunk_text": "cross the road ? because it was",
+      "longest_continuation_chunk_joke": 127,
+      "long_chunk_copied": true,
+      "closest_joke": 842,
+      "closest_overlap": 0.5385,
+      "closest_continuation_joke": 127,
+      "closest_continuation_overlap": 0.5
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": 0.8,
+    "text": "why did the packaged visit the salad dressing.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "why did the packaged",
+      "longest_chunk_joke": 993,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "the salad dressing .",
+      "longest_continuation_chunk_joke": 355,
+      "long_chunk_copied": false,
+      "closest_joke": 216,
+      "closest_overlap": 0.2857,
+      "closest_continuation_joke": 355,
+      "closest_continuation_overlap": 0.5
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": null,
+    "text": "two artists had a little lamb.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        694
+      ],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "had a little lamb .",
+      "longest_chunk_joke": 694,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "a little lamb .",
+      "longest_continuation_chunk_joke": 694,
+      "long_chunk_copied": false,
+      "closest_joke": 694,
+      "closest_overlap": 0.6,
+      "closest_continuation_joke": 694,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": 0.8,
+    "text": "two artists had a reptile dysfunction? it was too weak.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "it was too weak .",
+      "longest_chunk_joke": 632,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "it was too weak .",
+      "longest_continuation_chunk_joke": 632,
+      "long_chunk_copied": false,
+      "closest_joke": 632,
+      "closest_overlap": 0.3,
+      "closest_continuation_joke": 632,
+      "closest_continuation_overlap": 0.4286
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": null,
+    "text": "my invisible penguin, it was a little boulder.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": ", it was a",
+      "longest_chunk_joke": 222,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": ", it was a",
+      "longest_continuation_chunk_joke": 222,
+      "long_chunk_copied": false,
+      "closest_joke": 222,
+      "closest_overlap": 0.25,
+      "closest_continuation_joke": 222,
+      "closest_continuation_overlap": 0.4
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": 0.8,
+    "text": "my invisible penguin beans and a mop.................. it was riveting.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 18,
+      "longest_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_chunk_joke": 641,
+      "longest_continuation_chunk_tokens": 18,
+      "longest_continuation_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_continuation_chunk_joke": 641,
+      "long_chunk_copied": true,
+      "closest_joke": 138,
+      "closest_overlap": 0.4167,
+      "closest_continuation_joke": 138,
+      "closest_continuation_overlap": 0.5556
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": null,
+    "text": "<unk> <unk> <unk> joke? because he was outstanding in his field.",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 8,
+      "longest_chunk_text": "? because he was outstanding in his field",
+      "longest_chunk_joke": 583,
+      "longest_continuation_chunk_tokens": 8,
+      "longest_continuation_chunk_text": "? because he was outstanding in his field",
+      "longest_continuation_chunk_joke": 583,
+      "long_chunk_copied": true,
+      "closest_joke": 583,
+      "closest_overlap": 0.5455,
+      "closest_continuation_joke": 583,
+      "closest_continuation_overlap": 0.75
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": 0.8,
+    "text": "<unk> <unk> <unk> second kids joke? pt a angle.",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 2,
+      "longest_chunk_text": "joke ?",
+      "longest_chunk_joke": 52,
+      "longest_continuation_chunk_tokens": 2,
+      "longest_continuation_chunk_text": "joke ?",
+      "longest_continuation_chunk_joke": 52,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  }
+]

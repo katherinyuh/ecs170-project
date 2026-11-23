@@ -1,0 +1,256 @@
+[
+  {
+    "prompt": "what did the",
+    "temperature": null,
+    "text": "what did the german physicist say to the other? he was a little bit.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "what did the german physicist",
+      "longest_chunk_joke": 60,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "say to the other ?",
+      "longest_continuation_chunk_joke": 99,
+      "long_chunk_copied": false,
+      "closest_joke": 60,
+      "closest_overlap": 0.2143,
+      "closest_continuation_joke": 99,
+      "closest_continuation_overlap": 0.2727
+    }
+  },
+  {
+    "prompt": "what did the",
+    "temperature": 0.8,
+    "text": "what did the fish say to the number eight? nice belt",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 8,
+      "longest_chunk_text": "say to the number eight ? nice belt",
+      "longest_chunk_joke": 21,
+      "longest_continuation_chunk_tokens": 8,
+      "longest_continuation_chunk_text": "say to the number eight ? nice belt",
+      "longest_continuation_chunk_joke": 21,
+      "long_chunk_copied": true,
+      "closest_joke": 21,
+      "closest_overlap": 0.7,
+      "closest_continuation_joke": 21,
+      "closest_continuation_overlap": 0.8571
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": null,
+    "text": "why did the chicken cross the road? to get to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 13,
+      "longest_chunk_text": "why did the chicken cross the road ? to get to the other",
+      "longest_chunk_joke": 960,
+      "longest_continuation_chunk_tokens": 10,
+      "longest_continuation_chunk_text": "chicken cross the road ? to get to the other",
+      "longest_continuation_chunk_joke": 960,
+      "long_chunk_copied": true,
+      "closest_joke": 960,
+      "closest_overlap": 0.9167,
+      "closest_continuation_joke": 960,
+      "closest_continuation_overlap": 0.8889
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": 0.8,
+    "text": "why did the chicken cross the road? to get to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 13,
+      "longest_chunk_text": "why did the chicken cross the road ? to get to the other",
+      "longest_chunk_joke": 960,
+      "longest_continuation_chunk_tokens": 10,
+      "longest_continuation_chunk_text": "chicken cross the road ? to get to the other",
+      "longest_continuation_chunk_joke": 960,
+      "long_chunk_copied": true,
+      "closest_joke": 960,
+      "closest_overlap": 0.9167,
+      "closest_continuation_joke": 960,
+      "closest_continuation_overlap": 0.8889
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": null,
+    "text": "two artists had a dream with a sore throat? pardon!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "a sore throat ? pardon",
+      "longest_chunk_joke": 1466,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "a sore throat ? pardon",
+      "longest_continuation_chunk_joke": 1466,
+      "long_chunk_copied": false,
+      "closest_joke": 1466,
+      "closest_overlap": 0.3,
+      "closest_continuation_joke": 1466,
+      "closest_continuation_overlap": 0.4286
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": 0.8,
+    "text": "two artists had an art contest...",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        2,
+        339
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        2,
+        339
+      ],
+      "longest_chunk_tokens": 9,
+      "longest_chunk_text": "two artists had an art contest . . .",
+      "longest_chunk_joke": 2,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "an art contest . . .",
+      "longest_continuation_chunk_joke": 2,
+      "long_chunk_copied": true,
+      "closest_joke": 2,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 2,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": null,
+    "text": "my invisible penguin out of business? they had a metlife crisis.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 7,
+      "longest_chunk_text": "? they had a metlife crisis .",
+      "longest_chunk_joke": 989,
+      "longest_continuation_chunk_tokens": 7,
+      "longest_continuation_chunk_text": "? they had a metlife crisis .",
+      "longest_continuation_chunk_joke": 989,
+      "long_chunk_copied": true,
+      "closest_joke": 989,
+      "closest_overlap": 0.4545,
+      "closest_continuation_joke": 989,
+      "closest_continuation_overlap": 0.625
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": 0.8,
+    "text": "my invisible penguin out that blue to gerber in the england? it uses a pair of fame",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "? it uses a",
+      "longest_chunk_joke": 984,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "? it uses a",
+      "longest_continuation_chunk_joke": 984,
+      "long_chunk_copied": false,
+      "closest_joke": 984,
+      "closest_overlap": 0.125,
+      "closest_continuation_joke": 984,
+      "closest_continuation_overlap": 0.1538
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": null,
+    "text": "<unk> <unk> <unk> joke? a decaf alon",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 4,
+      "longest_chunk_text": "? a decaf alon",
+      "longest_chunk_joke": 289,
+      "longest_continuation_chunk_tokens": 4,
+      "longest_continuation_chunk_text": "? a decaf alon",
+      "longest_continuation_chunk_joke": 289,
+      "long_chunk_copied": false,
+      "closest_joke": 289,
+      "closest_overlap": 0.3333,
+      "closest_continuation_joke": 289,
+      "closest_continuation_overlap": 0.6667
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": 0.8,
+    "text": "<unk> <unk> <unk> who points out of the gutter!",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 5,
+      "longest_chunk_text": "out of the gutter !",
+      "longest_chunk_joke": 752,
+      "longest_continuation_chunk_tokens": 5,
+      "longest_continuation_chunk_text": "out of the gutter !",
+      "longest_continuation_chunk_joke": 752,
+      "long_chunk_copied": false,
+      "closest_joke": 752,
+      "closest_overlap": 0.375,
+      "closest_continuation_joke": 752,
+      "closest_continuation_overlap": 0.6
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "prompt": "what did the",
+    "temperature": null,
+    "text": "what did the mama cow say to the baby cow.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 10,
+      "longest_chunk_text": "what did the mama cow say to the baby cow",
+      "longest_chunk_joke": 1321,
+      "longest_continuation_chunk_tokens": 7,
+      "longest_continuation_chunk_text": "mama cow say to the baby cow",
+      "longest_continuation_chunk_joke": 1321,
+      "long_chunk_copied": true,
+      "closest_joke": 1321,
+      "closest_overlap": 0.8889,
+      "closest_continuation_joke": 1321,
+      "closest_continuation_overlap": 0.8333
+    }
+  },
+  {
+    "prompt": "what did the",
+    "temperature": 0.8,
+    "text": "what did the mama cow say to the muffler? you: i knew you'd a skeleton walks into a bar... but it turned out to just be a pyramid scheme.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 14,
+      "longest_chunk_text": ". . . but it turned out to just be a pyramid scheme .",
+      "longest_chunk_joke": 919,
+      "longest_continuation_chunk_tokens": 14,
+      "longest_continuation_chunk_text": ". . . but it turned out to just be a pyramid scheme .",
+      "longest_continuation_chunk_joke": 919,
+      "long_chunk_copied": true,
+      "closest_joke": 919,
+      "closest_overlap": 0.3636,
+      "closest_continuation_joke": 919,
+      "closest_continuation_overlap": 0.4
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": null,
+    "text": "why did the chicken cross the playground? to get to the other slide",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        3,
+        24,
+        871
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        3,
+        24,
+        871
+      ],
+      "longest_chunk_tokens": 14,
+      "longest_chunk_text": "why did the chicken cross the playground ? to get to the other slide",
+      "longest_chunk_joke": 3,
+      "longest_continuation_chunk_tokens": 11,
+      "longest_continuation_chunk_text": "chicken cross the playground ? to get to the other slide",
+      "longest_continuation_chunk_joke": 3,
+      "long_chunk_copied": true,
+      "closest_joke": 3,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 3,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "why did the",
+    "temperature": 0.8,
+    "text": "why did the packaged green onion get into trouble? because it scares the crap? don't bother, he's only ever right periodically!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 12,
+      "longest_chunk_text": "why did the packaged green onion get into trouble ? because it",
+      "longest_chunk_joke": 993,
+      "longest_continuation_chunk_tokens": 9,
+      "longest_continuation_chunk_text": "packaged green onion get into trouble ? because it",
+      "longest_continuation_chunk_joke": 993,
+      "long_chunk_copied": true,
+      "closest_joke": 993,
+      "closest_overlap": 0.4348,
+      "closest_continuation_joke": 993,
+      "closest_continuation_overlap": 0.35
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": null,
+    "text": "two artists had an art contest.....................................",
+    "unknown_words": [],
+    "stopped_on": "max_len",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 18,
+      "longest_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_chunk_joke": 641,
+      "longest_continuation_chunk_tokens": 18,
+      "longest_continuation_chunk_text": ". . . . . . . . . . . . . . . . . .",
+      "longest_continuation_chunk_joke": 641,
+      "long_chunk_copied": true,
+      "closest_joke": 2,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 2,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "two artists had",
+    "temperature": 0.8,
+    "text": "two artists had an art contest...",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": true,
+      "verbatim_full_joke_indexes": [
+        2,
+        339
+      ],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        2,
+        339
+      ],
+      "longest_chunk_tokens": 9,
+      "longest_chunk_text": "two artists had an art contest . . .",
+      "longest_chunk_joke": 2,
+      "longest_continuation_chunk_tokens": 6,
+      "longest_continuation_chunk_text": "an art contest . . .",
+      "longest_continuation_chunk_joke": 2,
+      "long_chunk_copied": true,
+      "closest_joke": 2,
+      "closest_overlap": 1.0,
+      "closest_continuation_joke": 2,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": null,
+    "text": "my invisible penguin.",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 2,
+      "longest_chunk_text": "penguin .",
+      "longest_chunk_joke": 785,
+      "longest_continuation_chunk_tokens": 1,
+      "longest_continuation_chunk_text": ".",
+      "longest_continuation_chunk_joke": 0,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "my invisible penguin",
+    "temperature": 0.8,
+    "text": "my invisible penguin!",
+    "unknown_words": [],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 2,
+      "longest_chunk_text": "penguin !",
+      "longest_chunk_joke": 162,
+      "longest_continuation_chunk_tokens": 1,
+      "longest_continuation_chunk_text": "!",
+      "longest_continuation_chunk_joke": 1,
+      "long_chunk_copied": false,
+      "closest_joke": -1,
+      "closest_overlap": 0.0,
+      "closest_continuation_joke": -1,
+      "closest_continuation_overlap": 0.0
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": null,
+    "text": "<unk> <unk> <unk>? because they have trans sisters.",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": true,
+      "verbatim_continuation_joke_indexes": [
+        737
+      ],
+      "longest_chunk_tokens": 7,
+      "longest_chunk_text": "? because they have trans sisters .",
+      "longest_chunk_joke": 737,
+      "longest_continuation_chunk_tokens": 7,
+      "longest_continuation_chunk_text": "? because they have trans sisters .",
+      "longest_continuation_chunk_joke": 737,
+      "long_chunk_copied": true,
+      "closest_joke": 737,
+      "closest_overlap": 0.625,
+      "closest_continuation_joke": 737,
+      "closest_continuation_overlap": 1.0
+    }
+  },
+  {
+    "prompt": "zebra astronauts juggle",
+    "temperature": 0.8,
+    "text": "<unk> <unk> <unk> who minored to psychology his coffee from the prince of nigeria, i don't know why.",
+    "unknown_words": [
+      "zebra",
+      "astronauts",
+      "juggle"
+    ],
+    "stopped_on": "eos",
+    "comparison": {
+      "verbatim_full_story": false,
+      "verbatim_full_joke_indexes": [],
+      "verbatim_continuation": false,
+      "verbatim_continuation_joke_indexes": [],
+      "longest_chunk_tokens": 7,
+      "longest_chunk_text": "from the prince of nigeria , i",
+      "longest_chunk_joke": 919,
+      "longest_continuation_chunk_tokens": 7,
+      "longest_continuation_chunk_text": "from the prince of nigeria , i",
+      "longest_continuation_chunk_joke": 919,
+      "long_chunk_copied": true,
+      "closest_joke": 919,
+      "closest_overlap": 0.2778,
+      "closest_continuation_joke": 919,
+      "closest_continuation_overlap": 0.3333
+    }
+  }
+]

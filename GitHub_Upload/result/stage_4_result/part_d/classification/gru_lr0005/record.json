@@ -1,0 +1,101 @@
+{
+  "run_id": "classification_gru_lr0005",
+  "task": "classification",
+  "cell_type": "gru",
+  "variation": "lr0005",
+  "config": {
+    "embedding_dim": 100,
+    "hidden_size": 128,
+    "num_layers": 1,
+    "dropout": 0.3,
+    "max_epoch": 3,
+    "learning_rate": 0.0005,
+    "batch_size": 64,
+    "grad_clip": 5.0,
+    "optimizer_name": "adam",
+    "seed": 2,
+    "bidirectional": false,
+    "track_test_acc": true,
+    "device_name": "auto",
+    "cell_type": "gru"
+  },
+  "identity": {
+    "config": {
+      "embedding_dim": 100,
+      "hidden_size": 128,
+      "num_layers": 1,
+      "dropout": 0.3,
+      "max_epoch": 3,
+      "learning_rate": 0.0005,
+      "batch_size": 64,
+      "grad_clip": 5.0,
+      "optimizer_name": "adam",
+      "seed": 2,
+      "bidirectional": false,
+      "track_test_acc": true,
+      "device_name": "auto",
+      "cell_type": "gru"
+    },
+    "max_len": 200,
+    "data_sha256": "ed37062efc1dfbd3c8f4f09fabe4d6f8d08f43bedea163f67cc775f7340c1ecb",
+    "embedding_source": "GloVe 100d fine tuned",
+    "glove_sha256": "e3caa09757d4177eff3fd18c2365f131e6a652cb30e9663b848a3bb16dde43ec",
+    "validation_fraction": 0.1,
+    "recurrent_dropout": 0.0
+  },
+  "max_len": 200,
+  "embedding_source": "GloVe 100d fine tuned",
+  "recurrent_dropout": 0.0,
+  "device": "cpu",
+  "torch_version": "2.15.0+cpu",
+  "validation_examples": 2500,
+  "test_examples": 25000,
+  "glove_stats": {
+    "glove_file": "glove_subset_100d.txt",
+    "glove_dim": 100,
+    "vocab_words": 20000,
+    "found_in_glove": 19345,
+    "coverage": 0.9673467346734673,
+    "seconds": 0.4
+  },
+  "training_examples": 22500,
+  "params": 2088578,
+  "minutes": 7.539261182749987,
+  "final_train_loss": 0.27745298386149936,
+  "final_train_acc": 0.8881333333333333,
+  "metrics": {
+    "validation_accuracy": 0.892,
+    "accuracy": 0.88316,
+    "f1_macro": 0.8829863763084973,
+    "f1_micro": 0.88316,
+    "f1_weighted": 0.8829863763084973,
+    "precision_macro": 0.8854476943543405,
+    "precision_micro": 0.88316,
+    "precision_weighted": 0.8854476943543405,
+    "recall_macro": 0.88316,
+    "recall_micro": 0.88316,
+    "recall_weighted": 0.88316
+  },
+  "history": {
+    "loss": [
+      0.5354246410740746,
+      0.3460088205655416,
+      0.27745298386149936
+    ],
+    "train_acc": [
+      0.7114666666666667,
+      0.8523555555555555,
+      0.8881333333333333
+    ],
+    "validation_acc": [
+      0.8407999873161316,
+      0.8804000020027161,
+      0.8920000195503235
+    ],
+    "epoch_seconds": [
+      130.7918221950531,
+      144.56435704231262,
+      160.02007627487183
+    ]
+  }
+}

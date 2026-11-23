@@ -1,0 +1,45 @@
+Part D Parameter Experiments
+
+3.2 Detailed Experimental Setups
+
+We changed one setting at a time: 18 generation runs across RNN, LSTM and GRU, plus three classification GRU runs. Generation uses all 1,622 jokes (30,303 windows), learned 100d embeddings, hidden size 128, one layer, context 3, dropout 0.2 and 15 epochs. Classification uses fine-tuned GloVe 100d, hidden size 128, one layer, 200-token reviews, dropout 0.3 and three epochs. Adam, learning rate 0.001, batch 64, clipping 5 and seed 2 are shared; recurrent dropout is zero.
+
+Classification keeps 22,500 training reviews and 2,500 stratified validation reviews; the original 25,000-review test set is scored after the final epoch. Compare variants to this rerun baseline, since Part B trained on all 25,000 training reviews.
+
+3.5 Training Convergence
+
+Figure 1. Selected GRU training losses. All per-run curves and histories are included with the source code.
+
+3.6 Model Performance
+
+Generation cells show final training loss / dropout-off training accuracy (%). These accuracies are not held-out scores or measures of story quality.
+
+Generation setting | RNN | LSTM | GRU
+
+Baseline | 2.8226 / 51.59 | 2.7683 / 52.53 | 2.5818 / 57.26
+
+Embedding 50 | 3.0612 / 46.87 | 3.0970 / 45.87 | 2.9048 / 49.92
+
+Hidden 256 | 2.0961 / 65.70 | 1.9269 / 70.88 | 1.7057 / 74.96
+
+Two layers | 2.8197 / 52.21 | 2.9245 / 50.61 | 2.5194 / 59.86
+
+Context 5 | 2.8291 / 50.99 | 2.7060 / 53.85 | 2.4775 / 59.62
+
+Learning rate 0.0005 | 3.5333 / 35.30 | 3.5650 / 34.91 | 3.4088 / 37.64
+
+Classification results below are final-epoch test scores; precision, recall and F1 use macro averaging.
+
+Classification GRU | Accuracy % | Precision | Recall | F1
+
+Baseline | 88.15 | 0.8864 | 0.8815 | 0.8811
+
+Hidden 256 | 89.42 | 0.8958 | 0.8942 | 0.8941
+
+Learning rate 0.0005 | 88.32 | 0.8854 | 0.8832 | 0.8830
+
+3.7 Ablation Studies
+
+Hidden size 256 gave the strongest generation fit: RNN 65.70%, LSTM 70.88% and GRU 74.96%. The smaller embedding and lower learning rate reduced generation accuracy; depth and context changes had mixed effects. For classification, hidden size 256 changed test accuracy by +1.27 points and learning rate 0.0005 by +0.17 points relative to the rerun baseline. Each model used one seed, so small differences do not establish a reliable advantage.
+
+Higher generation accuracy did not ensure better text: baseline and wider GRU both copied the chicken/playground joke, while the wider model repeated periods after "two artists had an art contest". Saved examples include training-overlap checks. Part D runs used CPU; the Colab notebook supports optional CUDA runs, with no measured GPU speedup claimed.
